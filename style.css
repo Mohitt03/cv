@@ -1,0 +1,55 @@
+#center{
+    
+    text-align: center;
+    border: 3px solid rgb(1, 9, 1);
+    width: auto;
+    height: 500px;
+    padding: 20px;
+    margin-top:0px ;
+    margin-left: 0px; 
+    margin-right: 0px;
+    display: flex;
+    order:1;
+    
+}
+p{
+    font-size: 50px;
+    
+}
+form{
+     align-items: center;
+}
+    
+#p {
+    border: 0px;
+    justify-content: center;
+}
+#p:hover{
+    background-color: rgb(144, 142, 138);
+}
+
+.background{
+    background: url("Img2.png") ;
+    background-repeat: no-repeat;
+    width:auto ;
+    height:auto;
+    background-size: auto;
+}    
+
+.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+  }
+  
+.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+  }
+  body{
+    background-image: url("Img2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
